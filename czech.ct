@@ -4,7 +4,7 @@
 ;
 ;
 MSG_WINTITLE
-Vzhled a chov√°n√≠ rozhran√≠ (editor IControl)
+Vzhled a chov·nÌ rozhranÌ (editor IControl)
 ; IControl Preferences
 ;
 MSG_OK
@@ -20,11 +20,11 @@ Druh
 ; Type
 ;
 MSG_MENUS_TYPE_PULLDOWN
-Glob√°ln√≠
+Glob·lnÌ
 ; Pull-Down
 ;
 MSG_MENUS_TYPE_POPUP
-Lok√°ln√≠
+Lok·lnÌ
 ; Pop-Up
 ;
 MSG_MENUS_LOOK
@@ -32,11 +32,11 @@ Vzhled
 ; Look
 ;
 MSG_MENUS_LOOK_CLASSIC
-Standardn√≠
+StandardnÌ
 ; Classic
 ;
 MSG_MENUS_LOOK_3D
-Prostorov√©
+ProstorovÈ
 ; 3D
 ;
 MSG_WINDOWS
@@ -44,62 +44,50 @@ Okna
 ; Windows
 ;
 MSG_OFFSCREEN_MOVE
-Povolit p≈ôesun oken mimo plochu
+Povolit p¯esun oken mimo plochu
 ; Offscreen move:
 ;
 MSG_SCREENS
 Obrazovky
 ; Screens
 ;
-MSG_PUBLIC_SCREENS
-Ve≈ôejn√© Obrazovky
-; Public Screens
-;
 MSG_FRONTMOST_DEFAULT
-Nastavit aktivn√≠ obrazovku jako v√Ωchoz√≠
+Nastavit aktivnÌ obrazovku jako v˝chozÌ
 ; Frontmost set as default public screen:
 ;
 MSG_OFFSCREEN_DESC
-Umo≈æn√≠ vysunov√°n√≠ oken mimo viditelnou\nplochu obrazovky
+UmoænÌ vysunov·nÌ oken mimo viditelnou\nplochu obrazovky
 ; Allow windows to be moved out of\nthe visible area
 ;
 MSG_FRONTMOST_DEFAULT_DESC
-P≈ôi≈ôad√≠ pr√°vƒõ aktivn√≠ obrazovce funkci\nv√Ωchoz√≠ ve≈ôejn√© obrazovky
+P¯i¯adÌ pr·vÏ aktivnÌ obrazovce funkci\nv˝chozÌ ve¯ejnÈ obrazovky
 ; Make the frontmost public screen\nthe default public screen
 ;
-MSG_DRAG
-Screen Dragging
-; Screen Dragging
-;
-MSG_DRAG_BOUNDS
-Limit dragging to Displays bounds...
-; Limit dragging to Displays bounds...
-;
 MSG_BOUND_LEFT_DRAG
-Zak√°zat p≈ôesouv√°n√≠ obrazovky doleva
+Zak·zat p¯esouv·nÌ obrazovky doleva
 ; Bound drag in left direction
 ;
 MSG_BOUND_RIGHT_DRAG
-Zak√°zat p≈ôesouv√°n√≠ obrazovky doprava
+Zak·zat p¯esouv·nÌ obrazovky doprava
 ; Bound drag in right direction
 ;
 MSG_BOUND_TOP_DRAG
-Zak√°zat p≈ôesouv√°n√≠ obrazovky nahoru
+Zak·zat p¯esouv·nÌ obrazovky nahoru
 ; Bound drag in top direction
 ;
 MSG_BOUND_BOTTOM_DRAG
-Zak√°zat p≈ôesouv√°n√≠ obrazovky dol≈Ø
+Zak·zat p¯esouv·nÌ obrazovky dol˘
 ; Bound drag in bottom direction
 ;
 MSG_META_DRAG
-Kl√°vesov√° zkratka
+Kl·vesov· zkratka
 ; Drag keys
 ;
 MSG_MENUS_STICKY
-Nezav√≠rat automaticky
+NezavÌrat automaticky
 ; Sticky
 ;
 MSG_MENUS_TITLEPOPUP
-Standardn√≠ menu na li≈°tƒõ
+StandardnÌ menu na liπtÏ
 ; Pull-Down on Screen Title
 ;
