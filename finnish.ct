@@ -1,68 +1,12 @@
-## version $VER: icontrolprefs.catalog 1.0 (25.08.2003)
+## version $VER: icontrolprefs.catalog 2.0 (06.08.2026)
 ## codeset 0
 ## language suomi
 ;
 ; TODO: update me and set version to 2
 ;
-MSG_CANT_OPEN_LIB
-En voi avata %s V%ld!\n
-; Can't open %s V%ld!\n
-;
-MSG_CANT_CREATE_APP
-En voi luoda ohjelmaobjektia!
-; Can't create application object!
-;
 MSG_WINTITLE
 IControl Asetukset
 ; IControl Preferences
-;
-MSG_MEN_PROJECT
-Projekti
-; Project
-;
-MSG_MEN_PROJECT_OPEN
-O\0Avaa...
-; O\0Open...
-;
-MSG_MEN_PROJECT_SAVEAS
-A\0Tallenna nimellä...
-; A\0Save As...
-;
-MSG_MEN_PROJECT_QUIT
-Q\0Lopeta
-; Q\0Quit
-;
-MSG_MEN_EDIT
-Muokkaus
-; Edit
-;
-MSG_MEN_EDIT_DEFAULT
-D\0Palauta oletukset
-; D\0Reset to Defaults
-;
-MSG_MEN_EDIT_LASTSAVED
-L\0Viikeksi tallennettu
-; L\0Last Saved
-;
-MSG_MEN_EDIT_RESTORE
-R\0Palautus
-; R\0Restore
-;
-MSG_MEN_SETTINGS
-Asetukset
-; Settings
-;
-MSG_MEN_SETTINGS_CREATEICONS
-I\0Luo ikonit?
-; I\0Create Icons?
-;
-MSG_ASL_OPEN_TITLE
-Lataa IControl asetukset
-; Load IControl Preferences
-;
-MSG_ASL_SAVE_TITLE
-Tallenna IControl asetukset
-; Save IControl Preferences
 ;
 MSG_OK
 Selvä
@@ -96,4 +40,68 @@ Klassinen
 MSG_MENUS_LOOK_3D
 3D
 ; 3D
+;
+MSG_WINDOWS
+Ikkunat
+; Windows
+;
+MSG_OFFSCREEN_MOVE
+Siirto näytön ulkopuolelle:
+; Offscreen move:
+;
+MSG_SCREENS
+Näytöt
+; Screens
+;
+MSG_PUBLIC_SCREENS
+Julkiset näytöt
+; Public Screens
+;
+MSG_FRONTMOST_DEFAULT
+Aseta päällimmäinen oletukseksi
+; Set Frontmost as default
+;
+MSG_OFFSCREEN_DESC
+Salli ikkunoiden siirtäminen\nnäkyvän alueen ulkopuolelle
+; Allow windows to be moved out of\nthe visible area
+;
+MSG_FRONTMOST_DEFAULT_DESC
+Tee päällimmäisestä julkisesta näytöstä\noletusarvoinen julkinen näyttö
+; Make the frontmost public screen\nthe default public screen
+;
+MSG_DRAG
+Näytön vetäminen
+; Screen Dragging
+;
+MSG_DRAG_BOUNDS
+Rajoita vetäminen näyttöjen rajoihin...
+; Limit dragging to Displays bounds...
+;
+MSG_BOUND_LEFT_DRAG
+vasemmalla
+; on the left
+;
+MSG_BOUND_RIGHT_DRAG
+oikealla
+; on the right
+;
+MSG_BOUND_TOP_DRAG
+ylhäällä
+; at the top
+;
+MSG_BOUND_BOTTOM_DRAG
+alhaalla
+; at the bottom
+;
+MSG_META_DRAG
+Vetämisen ohjausnäppäimet
+; Drag control key(s)
+;
+MSG_MENUS_STICKY
+Pysyvä
+; Sticky
+;
+MSG_MENUS_TITLEPOPUP
+Alasveto näytön otsikossa
+; Pull-Down on Screen Title
 ;

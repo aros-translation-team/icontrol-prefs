@@ -1,72 +1,12 @@
-## version $VER: IControl.catalog 1.2 (22.12.2009)
+## version $VER: IControl.catalog 2.0 (06.08.2026)
 ## language hrvatski
 ## codeset 5
 ;
 ; TODO: update me and set version to 2
 ;
-MSG_CANT_OPEN_LIB
-Ne mogu otvoriti %s V%ld!\n
-; Can't open %s V%ld!\n
-;
-MSG_CANT_CREATE_APP
-Ne mogu stvoriti objekt aplikacije!
-; Can't create application object!
-;
-MSG_CANT_CREATE_CUSTOM_CLASS
-Ne mogu stvoriti prilagoðenu preferenceswindow klasu
-; Can't create custom preferenceswindow class
-;
 MSG_WINTITLE
 Icontrol Postavke
 ; IControl Preferences
-;
-MSG_MEN_PROJECT
-Projekt
-; Project
-;
-MSG_MEN_PROJECT_OPEN
-O\0Otvori...
-; O\0Open...
-;
-MSG_MEN_PROJECT_SAVEAS
-A\0Spremi Kao...
-; A\0Save As...
-;
-MSG_MEN_PROJECT_QUIT
-Q\0Izlaz
-; Q\0Quit
-;
-MSG_MEN_EDIT
-Uredi
-; Edit
-;
-MSG_MEN_EDIT_DEFAULT
-D\0Resetiraj na Predlo¾eno
-; D\0Reset to Defaults
-;
-MSG_MEN_EDIT_LASTSAVED
-L\0Zadnje Spremljeno
-; L\0Last Saved
-;
-MSG_MEN_EDIT_RESTORE
-R\0Povrati
-; R\0Restore
-;
-MSG_MEN_SETTINGS
-Pode¹avanja
-; Settings
-;
-MSG_MEN_SETTINGS_CREATEICONS
-I\0Napravi Ikone?
-; I\0Create Icons?
-;
-MSG_ASL_OPEN_TITLE
-Uèitaj IControl Postavke
-; Load IControl Preferences
-;
-MSG_ASL_SAVE_TITLE
-Spremi IControl Postavke
-; Save IControl Preferences
 ;
 MSG_OK
 U redu
@@ -112,6 +52,10 @@ MSG_SCREENS
 Zasloni
 ; Screens
 ;
+MSG_PUBLIC_SCREENS
+Javni Zasloni
+; Public Screens
+;
 MSG_FRONTMOST_DEFAULT
 Prvi kao DefaultPubScreen:
 ; Frontmost set as DefaultPubScreen:
@@ -123,4 +67,40 @@ Dozvoli prozorima premje¹tanje \n izvan vidljivog djela
 MSG_FRONTMOST_DEFAULT_DESC
   Postavi prvi public screen\n kao predlo¾eni public screen
 ; Make the frontmost public screen\nthe default public screen
+;
+MSG_DRAG
+Povlaèenje Zaslona
+; Screen Dragging
+;
+MSG_DRAG_BOUNDS
+Ogranièi povlaèenje na granice zaslona...
+; Limit dragging to Displays bounds...
+;
+MSG_BOUND_LEFT_DRAG
+s lijeve strane
+; on the left
+;
+MSG_BOUND_RIGHT_DRAG
+s desne strane
+; on the right
+;
+MSG_BOUND_TOP_DRAG
+na vrhu
+; at the top
+;
+MSG_BOUND_BOTTOM_DRAG
+na dnu
+; at the bottom
+;
+MSG_META_DRAG
+Kontrolna tipka(e) za povlaèenje
+; Drag control key(s)
+;
+MSG_MENUS_STICKY
+Priljepljivo
+; Sticky
+;
+MSG_MENUS_TITLEPOPUP
+Padajuæi na Naslovu Zaslona
+; Pull-Down on Screen Title
 ;

@@ -1,4 +1,4 @@
-## version $VER: icontrolprefs.catalog 2.0 (12.02.2021)
+## version $VER: icontrolprefs.catalog 2.0 (06.08.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -92,7 +92,7 @@ Beheko aldea
 ; at the bottom
 ;
 MSG_META_DRAG
-
+Arrastatzeko kontrol-tekla(k)
 ; Drag control key(s)
 ;
 ; ***NEW***
