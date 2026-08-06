@@ -1,38 +1,37 @@
-## version $VER: icontrolprefs.catalog 2.0 (07.11.2021)
-## language türkçe
-## codeset 12
-;
+## version $VER: icontrolprefs.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
 ;
 MSG_WINTITLE
-IControl Tercihleri
+IControl podeçavanja
 ; IControl Preferences
 ;
 MSG_OK
-Tamam
+Ok
 ; Ok
 ;
 MSG_MENUS_GROUP
-Menüler
+Meniji
 ; Menus
 ;
 MSG_MENUS_TYPE
-Tür
+Tip
 ; Type
 ;
 MSG_MENUS_TYPE_PULLDOWN
-Aþaðý açýlýr
+Padaju†i
 ; Pull-Down
 ;
 MSG_MENUS_TYPE_POPUP
-Açýlýr
+IskaŸu†i
 ; Pop-Up
 ;
 MSG_MENUS_LOOK
-Görünüm
+Izgled
 ; Look
 ;
 MSG_MENUS_LOOK_CLASSIC
-Klasik
+KlasiŸan
 ; Classic
 ;
 MSG_MENUS_LOOK_3D
@@ -40,66 +39,66 @@ MSG_MENUS_LOOK_3D
 ; 3D
 ;
 MSG_WINDOWS
-Pencereler
+Prozori
 ; Windows
 ;
 MSG_OFFSCREEN_MOVE
-Ekran dýþý hareket:
+Pomeranje van ekrana:
 ; Offscreen move:
 ;
 MSG_SCREENS
-Ekranlar
+Ekrani
 ; Screens
 ;
 MSG_PUBLIC_SCREENS
-Genel Ekranlar
+Javni ekrani
 ; Public Screens
 ;
 MSG_FRONTMOST_DEFAULT
-En Öndekini varsayýlan olarak ayarla
+Postavi prednji kao podrazumevani
 ; Set Frontmost as default
 ;
 MSG_OFFSCREEN_DESC
-Pencerelerin görünür alanýn dýþýna\ntaþýnmasýna izin ver
+Dozvoli pomeranje prozora izvan\nvidljive oblasti
 ; Allow windows to be moved out of\nthe visible area
 ;
 MSG_FRONTMOST_DEFAULT_DESC
-En öndeki genel ekraný varsayýlan\ngenel ekran yapýn
+UŸini prednji javni ekran\npodrazumevanim javnim ekranom
 ; Make the frontmost public screen\nthe default public screen
 ;
 MSG_DRAG
-Ekran Sürükleme
+PrevlaŸenje ekrana
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Sürükleme sýnýrlarýný görüntülenen ile sýnýrla...
+OgraniŸi prevlaŸenje na granice ekrana...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-soldaki
+levo
 ; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-saðdaki
+desno
 ; on the right
 ;
 MSG_BOUND_TOP_DRAG
-üsteki
+gore
 ; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-alttaki
+dole
 ; at the bottom
 ;
 MSG_META_DRAG
-Sürükleme kontrol tuþ(larý)
+Kontrolni taster(i) za prevlaŸenje
 ; Drag control key(s)
 ;
 MSG_MENUS_STICKY
-Sapýþkan
+Lepljivi
 ; Sticky
 ;
 MSG_MENUS_TITLEPOPUP
-Ekran Baþlýðýnda Aþaðý Açýlan
+Padaju†i na naslovu ekrana
 ; Pull-Down on Screen Title
 ;

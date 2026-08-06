@@ -1,38 +1,37 @@
-## version $VER: icontrolprefs.catalog 2.0 (07.11.2021)
-## language türkçe
-## codeset 12
-;
+## version $VER: icontrolprefs.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
 ;
 MSG_WINTITLE
-IControl Tercihleri
+IControl beállítások
 ; IControl Preferences
 ;
 MSG_OK
-Tamam
+Rendben
 ; Ok
 ;
 MSG_MENUS_GROUP
-Menüler
+Menük
 ; Menus
 ;
 MSG_MENUS_TYPE
-Tür
+Típus
 ; Type
 ;
 MSG_MENUS_TYPE_PULLDOWN
-Aþaðý açýlýr
+Lenyíló
 ; Pull-Down
 ;
 MSG_MENUS_TYPE_POPUP
-Açýlýr
+Felugró
 ; Pop-Up
 ;
 MSG_MENUS_LOOK
-Görünüm
+Kinézet
 ; Look
 ;
 MSG_MENUS_LOOK_CLASSIC
-Klasik
+Klasszikus
 ; Classic
 ;
 MSG_MENUS_LOOK_3D
@@ -40,66 +39,66 @@ MSG_MENUS_LOOK_3D
 ; 3D
 ;
 MSG_WINDOWS
-Pencereler
+Ablakok
 ; Windows
 ;
 MSG_OFFSCREEN_MOVE
-Ekran dýþý hareket:
+Mozgatás a képernyõn kívülre:
 ; Offscreen move:
 ;
 MSG_SCREENS
-Ekranlar
+Képernyõk
 ; Screens
 ;
 MSG_PUBLIC_SCREENS
-Genel Ekranlar
+Nyilvános képernyõk
 ; Public Screens
 ;
 MSG_FRONTMOST_DEFAULT
-En Öndekini varsayýlan olarak ayarla
+A legelsõ legyen az alapértelmezett
 ; Set Frontmost as default
 ;
 MSG_OFFSCREEN_DESC
-Pencerelerin görünür alanýn dýþýna\ntaþýnmasýna izin ver
+Ablakok kimozgatásának engedélyezése\na látható területrõl
 ; Allow windows to be moved out of\nthe visible area
 ;
 MSG_FRONTMOST_DEFAULT_DESC
-En öndeki genel ekraný varsayýlan\ngenel ekran yapýn
+A legelsõ nyilvános képernyõ legyen\naz alapértelmezett nyilvános képernyõ
 ; Make the frontmost public screen\nthe default public screen
 ;
 MSG_DRAG
-Ekran Sürükleme
+Képernyõ húzása
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Sürükleme sýnýrlarýný görüntülenen ile sýnýrla...
+Húzás korlátozása a kijelzõ határaira...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-soldaki
+balra
 ; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-saðdaki
+jobbra
 ; on the right
 ;
 MSG_BOUND_TOP_DRAG
-üsteki
+felül
 ; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-alttaki
+alul
 ; at the bottom
 ;
 MSG_META_DRAG
-Sürükleme kontrol tuþ(larý)
+Húzás vezérlõbillentyû(k)
 ; Drag control key(s)
 ;
 MSG_MENUS_STICKY
-Sapýþkan
+Ragadás
 ; Sticky
 ;
 MSG_MENUS_TITLEPOPUP
-Ekran Baþlýðýnda Aþaðý Açýlan
+Lenyíló a képernyõcímen
 ; Pull-Down on Screen Title
 ;
