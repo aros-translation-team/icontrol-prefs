@@ -72,7 +72,7 @@ Arrastre de pantalla
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Limitar arrastre a los límites de la pantalla
+Limitar arrastre a los límites de la pantalla...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
