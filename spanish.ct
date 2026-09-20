@@ -76,23 +76,23 @@ Limitar arrastre a los límites de la pantalla...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-No descubrir a la izquierda
+a la izquierda
 ; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-No descubrir a la derecha
+a la derecha
 ; on the right
 ;
 MSG_BOUND_TOP_DRAG
-No descubrir hacia arriba
+arriba
 ; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-No descubrir hacia abajo
+abajo
 ; at the bottom
 ;
 MSG_META_DRAG
-Combinacion de teclas para mover la pantalla
+Teclas de control para mover la pantalla
 ; Drag control key(s)
 ;
 MSG_MENUS_STICKY

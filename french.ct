@@ -68,32 +68,32 @@ Les nouvelles fenêtres pourront\ns'ouvrir sur l'écran à l'avant-plan
 ; Make the frontmost public screen\nthe default public screen
 ;
 MSG_DRAG
-Screen Dragging
+Déplacement de l'écran
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Limit dragging to Displays bounds...
+Limiter le déplacement aux limites de l'écran...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Ne pas découvrir à gauche
-; Bound drag in left direction
+à gauche
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Ne pas découvrir à droite
-; Bound drag in right direction
+à droite
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Ne pas découvrir en haut
-; Bound drag in top direction
+en haut
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Ne pas découvrir en bas
-; Bound drag in bottom direction
+en bas
+; at the bottom
 ;
 MSG_META_DRAG
-Combinaison de touches pour déplacer l'écran
-; Drag keys
+Touches de contrôle pour déplacer l'écran
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Menus collants

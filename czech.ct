@@ -68,32 +68,32 @@ Pøiøadí právì aktivní obrazovce funkci\nvýchozí veøejné obrazovky
 ; Make the frontmost public screen\nthe default public screen
 ;
 MSG_DRAG
-Screen Dragging
+Pøesouvání obrazovky
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Limit dragging to Displays bounds...
+Omezit pøesouvání na hranice obrazovek...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Zakázat pøesouvání obrazovky doleva
-; Bound drag in left direction
+vlevo
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Zakázat pøesouvání obrazovky doprava
-; Bound drag in right direction
+vpravo
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Zakázat pøesouvání obrazovky nahoru
-; Bound drag in top direction
+nahoøe
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Zakázat pøesouvání obrazovky dolù
-; Bound drag in bottom direction
+dole
+; at the bottom
 ;
 MSG_META_DRAG
-Klávesová zkratka
-; Drag keys
+Ovládací klávesy pro pøesouvání
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Nezavírat automaticky

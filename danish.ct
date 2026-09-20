@@ -79,24 +79,24 @@ Begræns trækning til skærmenes grænser...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Bundet træk mod venstre
-; Bound drag in left direction
+til venstre
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Bundet træk mod højre
-; Bound drag in right direction
+til højre
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Bundet træk mod toppen
-; Bound drag in top direction
+øverst
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Bundet træk mod bunden
-; Bound drag in bottom direction
+nederst
+; at the bottom
 ;
 MSG_META_DRAG
-Træktaster
-; Drag keys
+Kontroltaster til skærmtrækning
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Klæbrig

@@ -76,24 +76,24 @@ MSG_DRAG_BOUNDS
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-за левый край
-; Bound drag in left direction
+слева
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-за правый край
-; Bound drag in right direction
+справа
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-за верхний край
-; Bound drag in top direction
+сверху
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-за нижний край
-; Bound drag in bottom direction
+снизу
+; at the bottom
 ;
 MSG_META_DRAG
-Комбинация клавиш
-; Drag keys
+Клавиши управления перетаскиванием
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Залипание
