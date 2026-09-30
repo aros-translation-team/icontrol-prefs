@@ -68,32 +68,32 @@ Macht den vordersten öffentlichen Bildschirm\nzum voreingestellten öffentlichen 
 ; Make the frontmost public screen\nthe default public screen
 ;
 MSG_DRAG
-Screen Dragging
+Bildschirmverschiebung
 ; Screen Dragging
 ;
 MSG_DRAG_BOUNDS
-Limit dragging to Displays bounds...
+Verschieben auf Bildschirmgrenzen beschränken...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Verschieben nach links verhindern
-; Bound drag in left direction
+links
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Verschieben nach rechts verhindern
-; Bound drag in right direction
+rechts
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Verschieben nach oben verhindern
-; Bound drag in top direction
+oben
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Verschieben nach unten verhindern
-; Bound drag in bottom direction
+unten
+; at the bottom
 ;
 MSG_META_DRAG
-Tastenkombination zum Verschieben
-; Drag keys
+Steuertasten zum Verschieben
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Klebend

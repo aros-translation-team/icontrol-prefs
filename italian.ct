@@ -76,24 +76,24 @@ Limita il trascinamento...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Blocca trascinamento a sinistra
-; Bound drag in left direction
+a sinistra
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Blocca trascinamento a destra
-; Bound drag in right direction
+a destra
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Blocca trascinamento in alto
-; Bound drag in top direction
+in alto
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Blocca trascinamento in basso
-; Bound drag in bottom direction
+in basso
+; at the bottom
 ;
 MSG_META_DRAG
-Tasti trascinamento
-; Drag keys
+Tasti di controllo per il trascinamento
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Sempre in primo piano

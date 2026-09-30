@@ -76,24 +76,24 @@ Begrengs skjermflytting til skjermens grenser ...
 ; Limit dragging to Displays bounds...
 ;
 MSG_BOUND_LEFT_DRAG
-Kun flytt til venstre
-; Bound drag in left direction
+til venstre
+; on the left
 ;
 MSG_BOUND_RIGHT_DRAG
-Kun flytt til høyre
-; Bound drag in right direction
+til høyre
+; on the right
 ;
 MSG_BOUND_TOP_DRAG
-Kun flytt oppover
-; Bound drag in top direction
+øverst
+; at the top
 ;
 MSG_BOUND_BOTTOM_DRAG
-Kun flytt nedover
-; Bound drag in bottom direction
+nederst
+; at the bottom
 ;
 MSG_META_DRAG
-Hurtigtast for å flytte
-; Drag keys
+Kontrolltaster for skjermflytting
+; Drag control key(s)
 ;
 MSG_MENUS_STICKY
 Klebrig
